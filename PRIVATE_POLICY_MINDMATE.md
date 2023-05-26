@@ -6,7 +6,7 @@ Effective Date: 17 May, 202
 <p>By downloading, accessing, or using the App, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, storage, and disclosure of your information as described herein.</p>
 <p><strong>2. Information We Collect</strong></p>
 <p>This section outlines the types of data we collect from you and how we handle it. We are committed to protecting your privacy and ensuring the security of your personal information. By using our app, you consent to the collection and use of your data as described in this privacy policy.</p>
-<ol>
+<ol type="a">
   <li><strong>Purchase History:</strong></li>
   <p>We may collect and retain information related to your purchase history within our app. This includes details such as transaction records, purchase dates, and purchase amounts. This information is solely used for internal purposes, such as managing your purchases and providing customer support, and is not shared with any third parties.</p>
   <li><strong>Crash Logs:</strong></li>
