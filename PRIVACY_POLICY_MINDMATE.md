@@ -1,8 +1,8 @@
-Effective Date: 17 May, 202
+Effective Date: 26 May, 2023
 <p><strong>Privacy Policy for MindMate</strong></p>
-<p><strong>Effective Date:</strong> 17 May, 2023</p>
+<p><strong>Effective Date:</strong> 26 May, 2023</p>
 <p><strong>1. Introduction</strong></p>
-<p>Welcome to MindMate ("we," "us," or "our"). This Privacy Policy outlines how we collect, use, store, and disclose information obtained from users ("you" or "users") of the MindMate mobile app ("the App").</p>
+<p>Welcome to MindMate ("we," "us," or "our"). This Privacy Policy outlines how we collect, use, store, and disclose information obtained from users ("you" or "users") of the 'MindMate - AI Chatbot' mobile app ("the App").</p>
 <p>By downloading, accessing, or using the App, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, storage, and disclosure of your information as described herein.</p>
 <p><strong>2. Information We Collect</strong></p>
 <p>This section outlines the types of data we collect from you and how we handle it. We are committed to protecting your privacy and ensuring the security of your personal information. By using our app, you consent to the collection and use of your data as described in this privacy policy.</p>
