@@ -1,4 +1,3 @@
-Effective Date: 26 May, 2023
 <h1><strong>Privacy Policy for MindMate</strong></h1>
 <p><strong>Effective Date:</strong> 26 May, 2023</p>
 <p><strong>1. Introduction</strong></p>
